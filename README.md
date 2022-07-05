@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishek01das
-- 👀 I’m interested in front-end web development and software testing and automation.
+- 👀 I’m interested in front-end web development, and software testing & automation.
 - 🌱 I’m good at html, css, python, java and selenium.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...abhishek01das@gmail.com
