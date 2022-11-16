@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishek01das
-- 👀 Interested in software testing & automation.
+- 👀 Specialized in software testing & automation.
 - 🌱 I’m good at html, css, python, java, selenium, appium, manual testinng & automation.
 - 📫 How to reach me ...abhishek01das@gmail.com
 
